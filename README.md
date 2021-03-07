@@ -1,2 +1,2 @@
 # TESLA AppClone
- Corss-Platform TESLA application
+ Cross-Platform TESLA application

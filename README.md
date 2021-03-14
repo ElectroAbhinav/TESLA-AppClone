@@ -1,3 +1,2 @@
-# TESLA AppClone
- Cross-Platform TESLA application
-(A bare basic-framework of TESLA app with no functionalities)
+# TESLA App UI
+UI developed with the help of Expo-CLI 
